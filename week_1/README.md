@@ -1,6 +1,6 @@
 # Week 1. Основы NLP и векторные представления
 
-Материалы лекций к занятию 24 октября. В папке опубликованы две презентации в PDF.
+Материалы к занятию 24 октября. В папке опубликованы две презентации в PDF и ноутбук семинара.
 
 ## Лекция 1. Введение в NLP
 
@@ -35,4 +35,13 @@
 - **Semantic search:** bi-encoder retrieval, symmetric и asymmetric search, chunking, vector index, ANN, lexical/dense/hybrid retrieval, cross-encoder и re-ranking.
 - **Введение в RAG:** роль embeddings, retrieval evaluation и grounded generation.
 
-Практическое применение preprocessing, TF-IDF + Logistic Regression и pretrained sentence embeddings относится к семинару.
+## Семинар. Базовая обработка текста и классификация
+
+[Открыть ноутбук](<Базовая обработка текста и классификация — 24 октября.ipynb>)
+
+- Text preprocessing с NLTK и spaCy.
+- TF-IDF + Logistic Regression как baseline.
+- Pretrained sentence embeddings и сравнение классификаторов.
+- Evaluation, анализ ошибок и упражнения.
+
+Инструкция по установке библиотек и запуску в Google Colab находится в начале ноутбука.
