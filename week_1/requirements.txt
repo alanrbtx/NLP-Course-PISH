@@ -1,0 +1,10 @@
+# Домашнее задание 1 (семинар устанавливает свои версии в первой ячейке ноутбука)
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+matplotlib>=3.8
+nltk>=3.9
+requests>=2.31
+torch>=2.4
+sentence-transformers>=3.0
+jupyterlab>=4,<5

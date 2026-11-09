@@ -1,0 +1,13 @@
+torch>=2.4
+transformers>=4.56
+datasets>=3.0
+peft>=0.17
+trl>=0.24
+accelerate>=1.0
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+requests>=2.31
+jupyterlab>=4,<5
+# Только для QLoRA на GPU NVIDIA:
+# bitsandbytes>=0.43

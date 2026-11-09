@@ -1,0 +1,6 @@
+# Домашнее задание 2. Для BACKEND="api" достаточно requirements.txt семинара;
+# для локальной модели (BACKEND="local") дополнительно нужны torch и transformers.
+-r requirements.txt
+torch>=2.4
+transformers>=4.46
+accelerate>=0.34

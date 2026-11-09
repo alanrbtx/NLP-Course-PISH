@@ -1,0 +1,18 @@
+# Прогнанные версии семинаров и домашних заданий (решения и выводы) — только у преподавателя
+_run/
+
+# Исходники генерации слайдов и ноутбуков — локально
+_src/
+
+# Рабочие файлы, которые создают ноутбуки при запуске
+seminar*_work/
+hw*_work/
+practicum6_work/
+hackathon_runs/
+hw4_shop.sqlite
+nlp_api_results/
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store

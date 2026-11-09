@@ -1,0 +1,11 @@
+# Стартовый ноутбук хакатона. torch и transformers нужны только для NLP_BACKEND=local.
+openai>=1.40
+pandas>=2.2
+numpy>=1.26
+datasets>=3.0
+rank-bm25>=0.2.2
+nltk>=3.9
+torch>=2.4
+transformers>=4.46
+accelerate>=0.34
+jupyterlab>=4,<5
